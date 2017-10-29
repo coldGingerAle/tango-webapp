@@ -1,0 +1,60 @@
+h1 {
+  font-family: 'Satisfy', cursive;
+  color: white;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+  color: white;
+  font-size: 45px;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.btn {
+  font-family: 'Satisfy', cursive;
+  color: white;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.btn:hover {
+  color: white !important;
+  font-size: 35px;
+}
+
+.login-signup {
+  margin-top: 10px;
+  font-size: 40px;
+}
+
+.login-signup:hover {
+  margin-top: 10px;
+  font-size: 50px;
+}
+
+.workshop {
+  margin: 10px;
+}
+
+.tango-info {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: #BFB1CB;
+}
+
+.tango-info:hover {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #BFB1CB !important;
+  border-radius: 50%;
+  box-shadow: 0 0 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
